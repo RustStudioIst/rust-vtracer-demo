@@ -1,0 +1,10 @@
+[package]
+name = "rust-vtracer-demo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# https://crates.io/crates/vtracer
+vtracer = "0.6.3"
+# https://crates.io/crates/visioncortex
+visioncortex = "0.8.8"
